@@ -1,0 +1,52 @@
+.view {
+    background: url("../../../assets/images/infrast_construct.JPG") no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+    // transform: rotate(90deg);
+
+}
+
+.logo {
+    margin: 0 auto;
+    width: 100px;
+    height:60px;
+}
+
+// .navbar {
+//     background-color: white;
+// }
+
+// .top-nav-collapse {
+//     background-color: #4285F4;
+// }
+
+// @media only screen and (max-width: 768px) {
+//     .navbar {
+//         background-color: rgb(117, 166, 245);
+//     }
+// }
+
+
+ul >li >  a {
+
+    color:#0099CC
+}
+
+main{
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: -10%;
+    overflow: visible;
+
+}
+
+.container{
+    border-radius: 10px;
+    padding: 1Opx;
+}
+
+.container > p{
+    padding: 2Opx;
+    margin: 20px;
+}

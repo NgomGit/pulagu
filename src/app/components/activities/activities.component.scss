@@ -1,0 +1,15 @@
+section {
+    width: 80%;
+    margin:0 auto;
+    padding: 40px;
+}
+
+.rotate{
+    transform: rotate(90deg);
+    width: 1000px;
+}
+
+.img-fluid .normal{
+
+    transform: rotate(0deg);
+}
